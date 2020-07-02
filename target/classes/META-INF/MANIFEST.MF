@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: myonlinedairy
+Implementation-Version: 1.0.0-FINAL
+Built-By: bharanidharreddyanumula
+Implementation-Vendor-Id: com.ab
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/myonlinedairy
+Created-By: Maven Integration for Eclipse
+
